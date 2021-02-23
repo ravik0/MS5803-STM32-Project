@@ -1,0 +1,6 @@
+ms5803.c:17:19:MS5803_read	32	static
+ms5803.c:28:19:MS5803_write	32	static
+ms5803.c:37:19:MS5803_reset	40	static
+ms5803.c:52:19:MS5803_coeff	48	static
+ms5803.c:70:10:MS5803_ADC	40	static
+ms5803.c:99:6:MS5803_get_values	104	static
